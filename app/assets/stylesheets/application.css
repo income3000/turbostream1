@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+ .note {
+	
+	content: wrap(body);
+	border-radius: 5px;
+	border: 1px solid;
+	padding: 5;
+	width: 30%;
+ }
