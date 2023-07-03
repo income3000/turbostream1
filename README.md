@@ -1,3 +1,9 @@
-turbo frame issues 
-1-new note not rendering w/p page refresh
-2-edit note not rendering on the note page-done
+there are no dependencies or gems added yet
+need to add the following:
+rich text(action text)
+devise
+bootstrap
+
+CSS needs to be added 
+
+needs to be deployed via heroku 
